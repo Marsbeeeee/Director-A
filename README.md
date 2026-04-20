@@ -1,6 +1,6 @@
 # 导演A（Director A）
 
-**AI for Any Audience · Action**
+**AI for Any Audience**
 一个让观众参与决策的互动广告系统
 
 ![状态](https://img.shields.io/badge/status-concept%20prototype-ff8a65)
