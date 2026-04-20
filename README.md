@@ -1,16 +1,22 @@
-我按你给的 README 结构，帮你**仿写了一版适用于你这次“导演A（Director A）互动广告系统”项目的 README**，整体结构、信息密度、语气都对齐原文件，同时做了产品层的替换。
-
----
-
 # 导演A（Director A）
+
+**AI for Any Audience · Action**
+一个让观众参与决策的互动广告系统
 
 ![状态](https://img.shields.io/badge/status-concept%20prototype-ff8a65)
 ![类型](https://img.shields.io/badge/type-interactive%20ads-6a5acd)
 ![核心](https://img.shields.io/badge/core-AI%20%2B%20Audience-009688)
 ![许可](https://img.shields.io/badge/license-not%20open%20source-lightgrey)
 
-**导演A（Director A）** 是一个让观众参与剧情走向的互动广告系统。
-它将传统“被动观看广告”转化为“参与式决策体验”，通过 AI 实时生成剧情分支，让 Audience 从旁观者变成“共创导演”。
+导演A（Director A）是一个以 AI 为驱动的互动广告系统。
+它通过将 Audience 引入叙事决策，让广告从“单向传递”转变为“参与式体验”。
+
+在这个系统中：
+- Audience 不再只是观看者  
+- AI 不只是生成工具  
+- 广告不再是打断，而是剧情的一部分  
+
+而“Action”，来自用户每一次选择。
 
 ---
 
@@ -250,18 +256,3 @@ npm run dev
 ## 许可说明
 
 本项目未提供开源许可，仅用于展示与评审。
-
----
-
-## 一句话总结（可以放顶部或封面）
-
-> **Audience 不只是观看者，而是剧情的决定者。**
-
----
-
-如果你下一步要继续打磨，我建议可以做两件关键优化：
-
-1. **加一个“核心链路图（flow）”**（比赛很加分）
-2. **把“广告价值”再量化一点（转化率、停留时间）**
-
-我可以帮你把 README 升级成**比赛用最终版（更偏评委视角）**，或者直接给你一版**PPT结构**。
