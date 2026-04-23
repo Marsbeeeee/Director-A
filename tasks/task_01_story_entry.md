@@ -5,7 +5,7 @@
 - Last Updated: 2026-04-22
 - Source Of Truth: 本文档为 Task 01 当前交付说明
 - Depends On:
-- Related Docs: `demo_flow.md`, `TEMPLATE_task.md`
+- Related Docs: `demo_flow.md`, `TEMPLATE_task.md`, `frontend-spec/pages/task-01-story-entry.page.md`
 
 ## 目标
 
@@ -67,7 +67,7 @@
 - 页面归属：Demo 首页 / 首个剧情画面。
 - UI 变更点：增加恋综标题区、剧情说明区、问题文案区、进入动作区。
 - 前端消费规则：前端不能自己猜剧情问题，必须由配置明确提供。
-- 页面文档同步：本期如有前端页面文档，应补充 Demo 首页说明。
+- 页面文档同步：对应页面文档为 `frontend-spec/pages/task-01-story-entry.page.md`。
 
 ## 落地范围
 
@@ -93,3 +93,4 @@
 
 - `demo_flow.md`
 - `TEMPLATE_task.md`
+- `frontend-spec/pages/task-01-story-entry.page.md`
